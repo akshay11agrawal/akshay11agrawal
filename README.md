@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-I'm Akshay, a software engineer with 8 years of experience in the industry. Currently, I'm working at Gap Inc, where I specialize in building high-performance microservices using Java, Spring, and SpringBoot.
+I'm Akshay, a software engineer with 8 years of experience in the industry. I specialize in building high-performance microservices using Java, Spring, and SpringBoot.
 
 ## 🚀 Technologies and Skills
 
-- 💻 **Languages:** Java
+- 💻 **Languages:** Java, JavaScript, Typescript
 - 🌱 **Frameworks:** Spring, SpringBoot
 - 🎨 **Design Patterns:** I'm well-versed in various design patterns.
 - 🧬 **Data Structures & Algorithms:** Strong foundation in data structures and algorithms.
@@ -12,7 +12,7 @@ I'm Akshay, a software engineer with 8 years of experience in the industry. Curr
 - 📡 **Version Control:** Experienced with Git and GitHub.
 - 🚀 **CI/CD:** I have hands-on experience with Jenkins and CI/CD pipelines.
 - 🚦 **Code Quality:** Utilize SonarQube for code quality improvements.
-- 🛠 **Build Tools:** I work with Gradle and Maven.
+- 🛠 **Build Tools:** I have hands-on experience with Gradle and Maven.
 - ☁️ **Cloud Platforms:** Azure and Pivotal Cloud Foundry (PCF).
 - 🐳 **Containerization:** Skilled in Docker and AKS (Azure Kubernetes Service).
 - 🌐 **Front-end:** Familiar with ReactJs and testing with Cypress and Jest.
@@ -27,7 +27,7 @@ In addition to my technical skills, I have a passion for:
 
 - 📷 **Photography:** I enjoy capturing moments and exploring the world through the lens.
 - 🎨 **Sketching:** Creativity flows through sketching, where I bring ideas to life on paper.
-- 🎮 **Gaming:** I'm an avid gamer, and I love diving into virtual worlds and solving challenges.
+- 🎮 **Gaming:** I'm an avid gamer who loves diving into virtual worlds and solving challenges.
 
 ## 🌱 Always Learning
 
