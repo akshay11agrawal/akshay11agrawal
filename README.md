@@ -10,7 +10,7 @@ I'm Akshay, a software engineer with 8 years of experience in the industry. I sp
 - 🧬 **Data Structures & Algorithms:** Strong foundation in data structures and algorithms.
 - 💌 **Messaging Queues:** Proficient with Kafka and RabbitMQ.
 - 📡 **Version Control:** Experienced with Git and GitHub.
-- 🚀 **CI/CD:** I have hands-on experience with Jenkins and CI/CD pipelines.
+- 🚀 **CI/CD:** I have hands-on experience with Jenkins and CI/CD pipelines (Github Actions).
 - 🚦 **Code Quality:** Utilize SonarQube for code quality improvements.
 - 🛠 **Build Tools:** I have hands-on experience with Gradle and Maven.
 - ☁️ **Cloud Platforms:** Azure and Pivotal Cloud Foundry (PCF).
@@ -18,7 +18,7 @@ I'm Akshay, a software engineer with 8 years of experience in the industry. I sp
 - 🌐 **Front-end:** Familiar with ReactJs and testing with Cypress and Jest.
 - 🧪 **Testing:** Expertise in Junit, Mockito, and Cucumber.
 - 📖 **Development Practices:** I follow Test-Driven Development (TDD) and Behavior-Driven Development (BDD) principles.
-- 🚀 **APIs:** Proficient in building RESTful APIs and Webclient.
+- 🚀 **APIs:** Proficient in building RESTful APIs.
 - 🛢️ **Databases:** I have experience with PostgreSQL, OracleDB, MySQL, and MongoDB.
 
 ## 📸 Interests
