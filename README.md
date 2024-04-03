@@ -1,3 +1,5 @@
+ ![](https://komarev.com/ghpvc/?username=akshay11agrawal&color=brightgreen)
+
 # Hi there! 👋
 
 I'm Akshay, a software engineer with 8 years of experience in the industry. I specialize in building high-performance microservices using Java, Spring, and SpringBoot.
