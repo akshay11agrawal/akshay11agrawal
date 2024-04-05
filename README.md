@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-I'm Akshay, a software engineer with 8 years of experience in the industry. I specialize in building high-performance microservices using Java, Spring, and SpringBoot.
+I'm Akshay, a software engineer with extensive experience in the industry. I specialize in building high-performance microservices using Java, Spring, and SpringBoot.
 
 ## 🚀 Technologies and Skills
 
